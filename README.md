@@ -16,7 +16,7 @@ This is a simple C# console application template.
 1. Clone this repository to your local machine or download the source code.
 
    ```bash
-   git clone https://github.com/cpu9995/console-template.git
+   git clone https://github.com/cpu9995/Console-Template.git
    ```
 
 2. Open the project in your C# development environment.
